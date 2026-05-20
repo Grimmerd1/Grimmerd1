@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
+Computer Science student passionate about Unity development, backend systems, and embedded IoT projects.
+
 * 🌍  I'm based in Chiang Rai, Thailand
 * ✉️  You can contact me at [mmordekaser@gmail.com](mailto:mmordekaser@gmail.com)
 
