@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Digital and Communication Engineering student at Mae Fah Luang University seeking internship opportunities in Unity, backend, and IoT development.
+Seeking internship opportunities in Unity, backend, and IoT development.
 
 * 🌍  I'm based in Chiang Rai, Thailand
 * ✉️  You can contact me at [mmordekaser@gmail.com](mailto:mmordekaser@gmail.com)
